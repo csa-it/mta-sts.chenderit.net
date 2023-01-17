@@ -1,5 +1,5 @@
-<h1 align="center">
+<h3 align="center">
   <br>
   📨 MTA-STS Policy for chenderit.net
   <br>
-</h1>
+</h3>
